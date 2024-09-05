@@ -1,7 +1,4 @@
 
-Memory updated
-Here's how the README files could look for both the Weather App and the AI Voice Assistant App:
-
 Weather App
 The Weather App is a modern, intuitive application developed using Flutter and Dart, designed to provide users with real-time weather updates and forecasts. The app is built with a focus on user experience, offering a clean interface and reliable data.
 
